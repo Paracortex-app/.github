@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paracortex-app/.github/main/profile/logo.png" alt="Paracortex" width="100">![Paracortex](./logo-github-1024.png?v=2)
+  <img src="https://raw.githubusercontent.com/paracortex-app/.github/main/profile/logo.png?v=2" alt="Paracortex" width="100">
 </p>
 
 <h3 align="center">Paracortex</h3>
